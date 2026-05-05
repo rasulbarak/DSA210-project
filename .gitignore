@@ -1,0 +1,17 @@
+# Virtual Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Mac OS
+.DS_Store
