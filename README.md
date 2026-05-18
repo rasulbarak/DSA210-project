@@ -36,3 +36,12 @@ The analysis is divided into three parts, located in the `notebooks/` directory.
 1. **`01_data_collection.ipynb`**: This notebook fetches and preprocesses the raw data necessary for the analysis.
 2. **`02_eda_and_testing.ipynb`**: This notebook contains Exploratory Data Analysis (EDA) and various statistical tests on the collected data.
 3. **`03_ml_methods.ipynb`**: This notebook applies machine learning methods to the preprocessed data to evaluate predictive models.
+
+## AI Usage Note
+
+An LLM was utilized during the preparation of the final report exclusively for language improvement, proofreading, and structuring the text to ensure clarity and readability.
+
+**Example Prompts Used:**
+- *"Please review this paragraph for clarity and suggest any grammatical improvements while maintaining the technical accuracy."*
+- *"Rephrase this section to make it flow more logically and sound more professional."*
+- *"Check this explanation of the machine learning results for any awkward phrasing and correct it."*
